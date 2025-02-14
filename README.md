@@ -28,7 +28,7 @@ Frequency : 1KHz
 **1.2 DC Analysis**
 
 ![Image](https://github.com/user-attachments/assets/bc06afac-fd32-41b2-8125-d9cfa63907a3)
-
+![Image](https://github.com/user-attachments/assets/5633f39b-564e-407a-910c-852ad87c4e54)
 
 
   From the analyis 
@@ -73,7 +73,14 @@ Frequency : 1KHz
 </table><br>
 
 <p>
-  This DC operating point analysis confirms that NMOS operates in saturation region.
+  This DC operating point analysis confirms that NMOS operates in saturation region.<br>
+  Vds = Vd-Vs= -0 =   <br>
+  Vov = Vgs-Vth= 0.9-0.36= 0.54v<br>
+  Vds>(Vgs-Vth)<br>
 </p>
+
+**Trancient Analysis**
+
+
 
 
