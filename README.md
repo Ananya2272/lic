@@ -1,5 +1,8 @@
 #Expriment-1 <br>
+
 **DC ,AC,Transient Analysis of Common Source Amplifier**
+
+
 ![Image](https://github.com/user-attachments/assets/f363849f-75ef-4d3e-a6c0-b0d83916ac4e)
 
 **1. Itroduction**
@@ -14,7 +17,7 @@
 **MOSFET length** : 180nm
 **MOSFET width** : 0.2um
 **Threshold voltage** : 0.36v
-**Resistor** : 1k
+**Resistor** : 2.72k
 **Supply voltage** : 1.8v
 **Sgnal generator** : 
 DC voltage :0.9v
@@ -27,11 +30,50 @@ Frequency : 1KHz
 ![Image](https://github.com/user-attachments/assets/c8c32687-c936-4ae7-8a93-23f6c5b3d7b7)
 ![Image](https://github.com/user-attachments/assets/c6dc9672-e99d-4ea2-af41-4af830271f6a)
 
-<p>
+
   From the analyis 
-  Vout : 1.74476v
-  Vin : 0.9v
+
+  Vout : 1.649v<br>
+  Vin : 0.9v<br>
   Id : 
+  <p>
+  If the power dissipiation is 100um across the resistor , then the current through the resistor is given by<br>
+  Id : power/Voltage = 100um/1.8 = 55.5um <br>
+
+  The output load line equation is given by <br>
+  Vout = Vdd-(Id-Rd)<br>
+  Rd= (1.8-1.649)/55.5um<br>
+  =2.72k ohms  <br>
+  </p> <br>
+<p>
+  Now replace the resistor value by Rd = 2.72k ohms . since the calculated current does not match the simulated value maintain the mosfet length at 180nmby adjusting the width to get the desired current value.
+</p><br>
+
+<table>
+  <tr>
+    <td>Length</td>
+    <td>Width</td>
+    <td>Id</td>
+  </tr>
+  <tr>
+    <td>180nm</td>
+    <td>1um</td>
+    <td>0.000148351</td>
+  </tr>
+  <tr>
+  <td>180nm</td>
+  <td>0.1um</td>
+  <td>4.76342e-05	</td>
+  </tr>
+  <tr>
+    <td>180nm</td>
+    <td>0.21um</td>
+    <td> 5.56616e-05</td>
+  </tr>
+</table><br>
+
+<p>
+  This DC operating point analysis confirms that NMOS operates in saturation region.
 </p>
 
 
