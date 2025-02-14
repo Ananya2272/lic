@@ -27,6 +27,7 @@ Frequency : 1KHz
 
 **1.2 DC Analysis**
 
+![Image](https://github.com/user-attachments/assets/bc06afac-fd32-41b2-8125-d9cfa63907a3)
 
 
 
