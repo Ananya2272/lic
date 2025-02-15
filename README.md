@@ -65,7 +65,13 @@ Frequency : 1KHz
   <td>180nm</td>
   <td>0.1um</td>
   <td>4.76342e-05	</td>
+  </tr><br>
+  <tr>
+    <td>180nm</td>
+    <td>0.19</td>
+    <td>5.36419e-05	</td>
   </tr>
+  
   <tr>
     <td>180nm</td>
     <td>0.21um</td>
@@ -82,7 +88,7 @@ Frequency : 1KHz
 
 
 
-**AC analyis**
+**1.3 AC analyis**
 
 ![Image](https://github.com/user-attachments/assets/4ec74b10-9171-4e79-84a1-7c68abb2483f)
 
@@ -94,7 +100,9 @@ Frequency : 1KHz
   
 </p><br>
 
-**Transient Analysis**
+**1.4 Transient Analysis**
+
+![Image](https://github.com/user-attachments/assets/b3846411-67a7-4c9a-a889-fe92c9c556ac)
 
 
 <p>
@@ -106,11 +114,11 @@ Frequency : 1KHz
 <p>
   Gain = Vin/Vout<br>
   Av=   <br>
-  This matches the theoritical value which is calculated by Av = gmRd.<br.
+  This matches the theoritical value which is calculated by Av = gmRd.<br>
   where gm= KnVov<br>
   From the graph we can observe that there is 180 degree phase shift which is exhibited by Common Source Amplifier.
   
-</p>
+</p><br>
 
 
 
