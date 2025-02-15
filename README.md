@@ -3,7 +3,6 @@
 **DC ,AC,Transient Analysis of Common Source Amplifier**
 
 
-![Image](https://github.com/user-attachments/assets/f363849f-75ef-4d3e-a6c0-b0d83916ac4e)
 
 **1. Itroduction**
 <p>
@@ -79,7 +78,12 @@ Frequency : 1KHz
   Vds>(Vgs-Vth)<br>
 </p>
 
+
+
 **Trancient Analysis**
+
+
+
 
 
 
