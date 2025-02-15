@@ -2,7 +2,7 @@
 
 **DC ,AC,Transient Analysis of Common Source Amplifier**
 
-
+![Image](https://github.com/user-attachments/assets/9b7890b9-35e5-4e4b-8d58-871e2d13037b)
 
 **1. Itroduction**
 <p>
@@ -23,6 +23,8 @@ DC voltage :0.9v
 Amplitude : 50mv
 Frequency : 1KHz
 </p><br>
+
+**Procedure**
 
 **1.2 DC Analysis**
 
@@ -80,7 +82,14 @@ Frequency : 1KHz
 
 
 
-**Trancient Analysis**
+**AC analyis**
+
+
+<p>
+  In AC analysis we determine the frequency response by applying the small signal analysis to the circuit . We do this analysis to check in which frequency the circuit acts as the linear amplifier.
+  For type of sweep we select 'decade', starting frequency as 0.1Hz and stop frequency as 1THz.
+</p>
+
 
 
 
