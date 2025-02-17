@@ -38,12 +38,13 @@ Frequency : 1KHz
 ![Image](https://github.com/user-attachments/assets/bc06afac-fd32-41b2-8125-d9cfa63907a3)
 ![Image](https://github.com/user-attachments/assets/5633f39b-564e-407a-910c-852ad87c4e54)
 
-
-  From the analyis 
+<p>
+  From the analyis <br>
 
   Vout : 1.649v<br>
   Vin : 0.9v<br>
   Id : 
+  </p>
   <p>
   If the power dissipiation is 100um across the resistor , then the current through the resistor is given by<br>
   Id : power/Voltage = 100um/1.8 = 55.5um <br>
@@ -139,6 +140,19 @@ Frequency : 1KHz
 </p><br>
 
 #Circuit-2
+
+**DC Analysis**
+<p>
+  From the analyis <br>
+
+  Vout : <br>
+  Vin : <br>
+  Id : 
+  </p>
+  <p>
+  If the power dissipiation is 100um across the resistor , then the current through the resistor is given by<br>
+  Id : power/Voltage = 100um/1.8 = 55.5um </p><br>
+  
 
 
 
