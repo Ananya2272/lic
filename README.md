@@ -203,6 +203,12 @@ Frequency : 1KHz
 </p>
 
 **Transient analysis**
+**Vin**
+
+![Image](https://github.com/user-attachments/assets/f22be7ec-b62c-475d-b028-848caa7323d5)
+
+**Vout**
+
 
 
 <p>
