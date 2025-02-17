@@ -13,7 +13,7 @@ In this experiment we do the Dc, Ac and Trancient analysis of the Common Source 
 
 **1. Itroduction**
 <p>
-   
+   CS amplifier is widely used MOSFET amplifier configuration . DC analysis is determines the Q point by calculating Vgs, ID and Vds to ensure the mosfet operates in saturation region.AC analysis examines the small signal behaviour, including voltage gain , impedence . Trancient analysis evaluates the time domain response to input changes.
 </p> <br>
 
 **1.1 Components**
@@ -140,7 +140,6 @@ Frequency : 1KHz
 
 #Circuit-2
 
-**Abstract**
 
 
 
