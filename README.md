@@ -142,6 +142,7 @@ Frequency : 1KHz
 #Circuit-2
 
 **DC Analysis**
+
 <p>
   From the analyis <br>
 
