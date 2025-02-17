@@ -96,29 +96,41 @@ Frequency : 1KHz
 <p>
   In AC analysis we determine the frequency response by applying the small signal analysis to the circuit . We do this analysis to check in which frequency the circuit acts as the linear amplifier.
   For type of sweep we select 'decade', starting frequency as 0.1Hz and stop frequency as 1THz.
-
+  </p><br>
+  <p>
+  Gain = Vin/Vout<br>
+  Av= 1.649/950mv= 1.73   <br>
+  This matches the theoritical value which is calculated by Av = gmRd.<br>
+  where gm= KnVov<br>
+  From the graph we can observe that there is 180 degree phase shift which is exhibited by Common Source Amplifier.
   
 </p><br>
 
+
 **1.4 Transient Analysis**
+<p>Vout</p>
 
 ![Image](https://github.com/user-attachments/assets/b3846411-67a7-4c9a-a889-fe92c9c556ac)
 
+<p>Vin</p>
+
 
 <p>
-  In this analysis we determine the gain of the circuit. for input give sinusoidal voltage signal where the DC offset is 0.9v peak voltage Vpeak is 50mv, Frequency is 1kHz and Ac amplitude is 1v.select the stop time to 3ms.
+  In this analysis we determine the gain of the circuit. for input give sinusoidal voltage signal where the DC offset is 950mv  Vpeak is 50mv, Frequency is 1kHz and Ac amplitude is 1v.select the stop time to 3ms.
 </p><br>
 <p>
   From the obtained output graph we can calculate the gain . 
 </p><br>
 <p>
   Gain = Vin/Vout<br>
-  Av=   <br>
+  Av= 1.649/950mv= 1.73  <br>
   This matches the theoritical value which is calculated by Av = gmRd.<br>
   where gm= KnVov<br>
   From the graph we can observe that there is 180 degree phase shift which is exhibited by Common Source Amplifier.
   
 </p><br>
+
+
 
 
 
