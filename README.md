@@ -209,6 +209,7 @@ Frequency : 1KHz
 
 **Vout**
 
+![Image](https://github.com/user-attachments/assets/2904dd92-7aee-4e51-851b-83d40b763135)
 
 
 <p>
@@ -226,6 +227,12 @@ Frequency : 1KHz
   
 </p><br>
 
+**Inference**
+
+<p>
+   1. DC analysis is carried out to set the Q point for the MOSFET to operate in saturation region .<br>
+   2. 
+</p>
 
 
 
