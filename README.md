@@ -1,12 +1,19 @@
 #Expriment-1 <br>
 
 **DC ,AC,Transient Analysis of Common Source Amplifier**
+**Circuit-1**
 
 ![Image](https://github.com/user-attachments/assets/9b7890b9-35e5-4e4b-8d58-871e2d13037b)
 
+**Abstract**
+<p>
+In this experiment we do the Dc, Ac and Trancient analysis of the Common Source Amplifier. In this analysis we determine the DC biasing conditions , in Ac analysis we determine frequency response and in Transient analysis we determine gain and output. 
+</p>
+
+
 **1. Itroduction**
 <p>
-  In this experiment we do the Dc, Ac and Trancient analysis of the Common Source Amplifier. In this analysis we determine the DC biasing conditions , in Ac analysis we determine frequency response and in Transient analysis we determine gain and output. 
+   
 </p> <br>
 
 **1.1 Components**
@@ -114,6 +121,7 @@ Frequency : 1KHz
 
 <p>Vin</p>
 
+![Image](https://github.com/user-attachments/assets/e06329c3-a235-4eaf-a261-93e54289b9da)
 
 <p>
   In this analysis we determine the gain of the circuit. for input give sinusoidal voltage signal where the DC offset is 950mv  Vpeak is 50mv, Frequency is 1kHz and Ac amplitude is 1v.select the stop time to 3ms.
@@ -129,6 +137,13 @@ Frequency : 1KHz
   From the graph we can observe that there is 180 degree phase shift which is exhibited by Common Source Amplifier.
   
 </p><br>
+
+#Circuit-2
+
+**Abstract**
+
+
+
 
 
 
