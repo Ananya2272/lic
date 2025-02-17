@@ -260,12 +260,12 @@ Frequency : 1KHz
 
 <p>
    1. DC analysis is carried out to set the Q point for the MOSFET to operate in saturation region .<br>
-   2. In DC analysis we find the value of ID and Vds. to check the Q point
-   3. In AC analysis we get the Frequency response and gain .
-   4. In transient analysis we get gain > 1.
-   5. In 2nd circuit PMOS acta as load .
-   6. gain is high in circuit 1 compared to circuit 2.
-   7. ID decreases as we decrease width of the MOSFET in 2nd circuit.
+   2. In DC analysis we find the value of ID and Vds. to check the Q point.<br>
+   3. In AC analysis we get the Frequency response and gain .<br>
+   4. In transient analysis we get gain > 1.<br>
+   5. In 2nd circuit PMOS acta as load .<br>
+   6. gain is high in circuit 1 compared to circuit 2.<br>
+   7. ID decreases as we decrease width of the MOSFET in 2nd circuit.<br>
    
 </p><br>
 
