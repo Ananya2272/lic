@@ -140,12 +140,13 @@ Frequency : 1KHz
 </p><br>
 
 #Circuit-2
+<p>In this circuit instead od RD we use a PMOS transistor as there will be </p>
 
 ![Image](https://github.com/user-attachments/assets/8e23d886-b6ff-42c4-bd04-b48b0631e000)
 
 **DC Analysis**
 
-
+![Image](https://github.com/user-attachments/assets/aa69e0ea-e9ab-47e9-ae5e-540c4aaecb35)
 
 <p>
   From the analyis <br>
@@ -184,6 +185,19 @@ Frequency : 1KHz
     <td>5.5521e-05</td>
   </tr>
 </table><br>
+
+**ac analysis**
+<p>
+    In AC analysis we determine the frequency response by applying the small signal analysis to the circuit . We do this analysis to check in which frequency the circuit acts as the linear amplifier.
+  For type of sweep we select 'decade', starting frequency as 0.1Hz and stop frequency as 1THz.
+  </p><br>
+  <p>
+  Gain = Vin/Vout<br>
+  Av= 1.649/950mv= 1.73   <br>
+  This matches the theoritical value which is calculated by Av = gmRd.<br>
+  where gm= KnVov<br>
+  From the graph we can observe that there is 180 degree phase shift which is exhibited by Common Source Amplifier.
+</p>
 
 
 
