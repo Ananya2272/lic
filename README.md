@@ -125,7 +125,7 @@ Frequency : 1KHz
 ![Image](https://github.com/user-attachments/assets/e06329c3-a235-4eaf-a261-93e54289b9da)
 
 <p>
-  In this analysis we determine the gain of the circuit. for input give sinusoidal voltage signal where the DC offset is 950mv  Vpeak is 50mv, Frequency is 1kHz and Ac amplitude is 1v.select the stop time to 3ms.
+  In this analysis we determine the gain of the circuit. for input give sinusoidal voltage signal where the DC offset is 950mv  Vpeak is 50mv, Frequency is 1kHz and Ac amplitude is 1v.select the stop time to 3ms.We can see there is 180 degree phase shift in the output.
 </p><br>
 <p>
   From the obtained output graph we can calculate the gain . 
@@ -187,6 +187,9 @@ Frequency : 1KHz
 </table><br>
 
 **ac analysis**
+**Vout**
+![Image](https://github.com/user-attachments/assets/ac11197e-5a36-47df-ab29-93a2bf60cef2)
+
 <p>
     In AC analysis we determine the frequency response by applying the small signal analysis to the circuit . We do this analysis to check in which frequency the circuit acts as the linear amplifier.
   For type of sweep we select 'decade', starting frequency as 0.1Hz and stop frequency as 1THz.
@@ -198,6 +201,26 @@ Frequency : 1KHz
   where gm= KnVov<br>
   From the graph we can observe that there is 180 degree phase shift which is exhibited by Common Source Amplifier.
 </p>
+
+**Transient analysis**
+
+
+<p>
+  In this analysis we determine the gain of the circuit. for input give sinusoidal voltage signal where the DC offset is 950mv  Vpeak is 50mv, Frequency is 1kHz and Ac amplitude is 1v.select the stop time to 3ms.We can see there is 180 degree phase shift in the output.
+</p><br>
+<p>
+  From the obtained output graph we can calculate the gain . 
+</p><br>
+<p>
+  Gain = Vin/Vout<br>
+  Av= 1.649/950mv= 1.73  <br>
+  This matches the theoritical value which is calculated by Av = gmRd.<br>
+  where gm= KnVov<br>
+  From the graph we can observe that there is 180 degree phase shift which is exhibited by Common Source Amplifier.
+  
+</p><br>
+
+
 
 
 
