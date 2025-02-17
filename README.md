@@ -141,19 +141,50 @@ Frequency : 1KHz
 
 #Circuit-2
 
+![Image](https://github.com/user-attachments/assets/8e23d886-b6ff-42c4-bd04-b48b0631e000)
+
 **DC Analysis**
+
+
 
 <p>
   From the analyis <br>
 
   Vout : <br>
   Vin : <br>
-  Id : 
+  Id : 55.5um
   </p>
   <p>
   If the power dissipiation is 100um across the resistor , then the current through the resistor is given by<br>
   Id : power/Voltage = 100um/1.8 = 55.5um </p><br>
-  
+  <table>
+  <tr>
+    <td>Length</td>
+    <td>Width</td>
+    <td>Id</td>
+  </tr>
+  <tr>
+    <td>180nm</td>
+    <td>1um</td>
+    <td>7.94924e-05</td>
+  </tr>
+  <tr>
+  <td>180nm</td>
+  <td>0.1um</td>
+  <td>4.57818e-05		</td>
+  </tr><br>
+  <tr>
+    <td>180nm</td>
+    <td>0.19</td>
+    <td>5.03863e-05</td>
+   </tr>
+   <tr>
+    <td>180nm</td>
+    <td>0.2369um</td>
+    <td>5.5521e-05</td>
+  </tr>
+</table><br>
+
 
 
 
