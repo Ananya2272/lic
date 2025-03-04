@@ -36,7 +36,7 @@
 
 # Transient Analysis
 
-<p> Now in edit simulation select transient analysis and select sine wave and give DC offset value as 1.614 on both side and observe the Waveform.</p>
+<p> Now in edit simulation select transient analysis and select sine wave and give DC offset value as 1.72v on both side and observe the Waveform.</p>
 
 ![Image](https://github.com/user-attachments/assets/376c4983-486d-4cb5-bcdf-e59c2dd3d7ee)
 
@@ -74,6 +74,13 @@
 <p>The length of the MOSFET is 180nm. We need to adjust the width to get the desired Q point  we have already calculated the parameters.We got W=0.279u.Now select DC op pnt in edit simulation and check if ID1=Id2 , and Vout as expected.  </p><br>
 
 # Transient analysis
+
+![Image](https://github.com/user-attachments/assets/d525ebba-f689-4445-8575-d8c03e0dcccb)
+
+<p>  Now in edit simulation select transient analysis and select sine wave and give DC offset value as 1.72v on both side and observe the Waveform.Give 180degree to one MOSFET and 0 degree to another MOSFET.ac AMPLITUDE AS 1V.</p><br>
+
+# AC analysis
+
 
 
 
