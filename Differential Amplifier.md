@@ -81,9 +81,27 @@
 
 # AC analysis
 
+![Image](https://github.com/user-attachments/assets/d5aeb0fe-a602-4fd3-b925-19eb10c63584)
 
 <p>  To perform AC analysis we need to select ac analysis in the edit simulator . and select the decade.Find the gain and observe the waveform obtained.
-<p> the gain is increased because it raises the output resistance.</p>
+<p> the gain is increased because it raises the output resistance.</p><br>
+
+# Circuit -3 with NMOSFET at source terminal
+**Circuit**
+
+
+<p>Replace the current source with a NMOS at the source terminal .</p><br>
+
+# DC analysis
+
+
+# Transient analysis
+
+
+# AC analysis
+
+
+
 
 
 
