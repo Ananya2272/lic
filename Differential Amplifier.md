@@ -59,7 +59,8 @@
 ![Image](https://github.com/user-attachments/assets/3c18195b-45b7-4535-93e0-93ec934f1a6f)
 ![Image](https://github.com/user-attachments/assets/36d17936-9595-46af-8097-68ce7cc9283f)
 
-<p> Here we got BW= 13.5dB.</p><br>
+<p> Here we got BW= 10.16.</p><br>
+<p> dB=13.08</p><br>
 
 # Circuit-2 using current source
 
@@ -101,6 +102,30 @@
 
 
 # AC analysis
+
+![Image](https://github.com/user-attachments/assets/4b8ac0e1-213c-4aad-a59f-9cc1b5b12828)
+
+
+# Result 
+<p> 1. Iss=0.909mA</p><br>
+<p> 2.ID=ID1=ID2= 0.454mA</p><br>
+<p> 3.RD=3.3kohm</p><br>
+<p> 4.Rss= 770ohm</p><br>
+<p> 5.Av = 4.412</p><br>
+<p> 6.dB= 13.08</p><br>
+<p> 7.BW = 10.5-0.34=10.16</p><br>
+
+# Inference
+
+<p> 1. We must make sure that both transistors are symmetric.</p><br>
+<p> 2. The gain changes in each circuit because of the output resistance.</p><br>
+<p> 3. The current source enhances common-mode rejection, making the amplifier more effective at rejecting noise and interference.</p><br>
+<p> 4. The DC operating point remains almost same in all the circuits </p><br>
+<p> 5. Resistor limits the gain and current source stabilizes gain.</p><br>
+<p> 6. Replacing gain affects the gain ,biasing and input impedence.</p><br>
+
+
+
 
 
 
