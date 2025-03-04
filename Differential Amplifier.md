@@ -64,6 +64,12 @@
 # Circuit-2 using current source
 
 **Circuit**
+![Image](https://github.com/user-attachments/assets/7dea724c-1209-4361-87bb-86d72e8e0a5e)
+
+<P> Replece the resistor with a Current source and apply the value we obtained earlier (0.909mA) . It is also called as tail current. Current flowing from ID1 & ID2 must be equal to Iss. </P><br>
+
+**DC analysis**
+
 
 
 
