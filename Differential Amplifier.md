@@ -46,4 +46,6 @@
 <p> swing = 1.06+2.169/2 = 1.64 .</p><br>
 <p> Now in edit simulation select transient analysis and select sine wave and give DC offset value as 1.614 on both side and observe the Waveform. </p><br>
 
+![Image](https://github.com/user-attachments/assets/25327a71-ab3a-46cb-8369-b280a5c5ea69)
 
+<p> here the wave is clamped. </p><br>
