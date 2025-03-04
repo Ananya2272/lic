@@ -13,7 +13,9 @@
 
 # Circuit-1 with resistor
 
-**diagram**<br>
+**Circuit diagram**
+
+![Image](https://github.com/user-attachments/assets/e4bcf985-60f4-4471-9884-ee3f6293eec8)
 
 
 
