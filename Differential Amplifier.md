@@ -52,7 +52,7 @@
 
 # AC analysis 
 
-![Image](https://github.com/user-attachments/assets/95c644ef-4933-42e3-b48b-4aff4e1bd0b5)
+![Image](https://github.com/user-attachments/assets/30fb14dd-be5d-4684-9240-20f9ff9829df)
 
 <p> To perform AC analysis we need to select ac analysis in the edit simulator . and select the decade.Find the gain and observe the waveform obtained.</p><br>
 
@@ -80,6 +80,10 @@
 <p>  Now in edit simulation select transient analysis and select sine wave and give DC offset value as 1.72v on both side and observe the Waveform.Give 180degree to one MOSFET and 0 degree to another MOSFET.ac AMPLITUDE AS 1V.</p><br>
 
 # AC analysis
+
+
+<p>  To perform AC analysis we need to select ac analysis in the edit simulator . and select the decade.Find the gain and observe the waveform obtained.
+<p> the gain is increased because it raises the output resistance.</p>
 
 
 
