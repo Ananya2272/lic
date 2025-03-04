@@ -51,9 +51,13 @@
 <p> here the wave is clamped. </p><br>
 
 # AC analysis 
+
+
 <p> To perform AC analysis we need to select ac analysis in the edit simulator . and select the decade.Find the gain and observe the waveform obtained.</p><br>
 
 ![Image](https://github.com/user-attachments/assets/3c18195b-45b7-4535-93e0-93ec934f1a6f)
+![Image](https://github.com/user-attachments/assets/36d17936-9595-46af-8097-68ce7cc9283f)
+
 
 
 
