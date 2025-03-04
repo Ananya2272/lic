@@ -52,11 +52,19 @@
 
 # AC analysis 
 
+![Image](https://github.com/user-attachments/assets/95c644ef-4933-42e3-b48b-4aff4e1bd0b5)
 
 <p> To perform AC analysis we need to select ac analysis in the edit simulator . and select the decade.Find the gain and observe the waveform obtained.</p><br>
 
 ![Image](https://github.com/user-attachments/assets/3c18195b-45b7-4535-93e0-93ec934f1a6f)
 ![Image](https://github.com/user-attachments/assets/36d17936-9595-46af-8097-68ce7cc9283f)
+
+<p> Here we got BW= 13.5dB.</p><br>
+
+# Circuit-2 using current source
+
+**Circuit**
+
 
 
 
