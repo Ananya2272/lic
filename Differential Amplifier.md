@@ -13,7 +13,21 @@
 
 **Circuit-1 with resistor**
 
-**diagram**
+**diagram**<br>
 
-**Procedure**
-<p>1.Build the circuit and   </p>
+![Image](https://github.com/user-attachments/assets/e6fc0af1-e1a1-4afd-9718-e1994d720640)<br>
+
+**Procedure**<br>
+<p>Connect the circuit as shown above. In this circuit Resistor is connected at the source terminal.Consider the given parameters and calculate Iss,ID1,ID2,Rdand Rss.length of the MOSFET is 180nm.</p><br>
+
+**Calculations**
+
+<p>Iss=P/V= 3mw/3.3v= 0.909mA is the tail current .</p><br>
+<p> ID1=ID2=Iss/2=0.454mA.</p><br>
+<p> RD= Vdd-Vocm/ID= 3.3-1.8/0.454mA = 3.3kohms .</p><br>
+<p> Rss = Vp/Iss = 0.7/0.909mA = 770ohms.</p><br>
+
+
+# DC Analysis 
+
+<p>The length of the MOSFET is 180nm. We need to adjust the width to get the desired Q point  we have already calculated the parameters.We got W=0.279u.Now select DC op pnt in edit simulation and check if ID1=Id2 , and Vout as expected. </p>
