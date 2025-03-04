@@ -38,7 +38,7 @@
 
 <p> Now in edit simulation select transient analysis and select sine wave and give DC offset value as 1.614 on both side and observe the Waveform.</p>
 
-![Image](https://github.com/user-attachments/assets/3a20876e-924f-4fa2-9c42-8d33004ddad3)
+![Image](https://github.com/user-attachments/assets/376c4983-486d-4cb5-bcdf-e59c2dd3d7ee)
 
 <p> To perform transient analysiswe need to find the swing .Find Vincm maximum and minimum and take its average .</p><br>
 <p> Vincm (max)= Vt+Vp = 0.36+0.7 = 1.06v</p><br>
@@ -49,3 +49,7 @@
 ![Image](https://github.com/user-attachments/assets/25327a71-ab3a-46cb-8369-b280a5c5ea69)
 
 <p> here the wave is clamped. </p><br>
+
+# AC analysis 
+<p> To perform AC analysis we need to select ac analysis in the edit simulator . and select the decade.Find the gain and observe the waveform obtained.</p><br>
+
