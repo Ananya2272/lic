@@ -89,6 +89,8 @@
 # Circuit -3 with NMOSFET at source terminal
 **Circuit**
 
+![Image](https://github.com/user-attachments/assets/50c1ccd4-c51c-46fe-8e97-1cb364f139b5)
+
 
 <p>Replace the current source with a NMOS at the source terminal .</p><br>
 
@@ -99,6 +101,7 @@
 
 
 # AC analysis
+
 
 
 
