@@ -30,9 +30,11 @@
 
 
 # DC Analysis 
+![Image](https://github.com/user-attachments/assets/e9bb2d34-cbd8-4dbe-9b62-9143b0bf01e5)
 
 
-<p>The length of the MOSFET is 180nm. We need to adjust the width to get the desired Q point  we have already calculated the parameters.We got W=0.279u.Now select DC op pnt in edit simulation and check if ID1=Id2 , and Vout as expected. </p><br>
+
+<p>The length of the MOSFET is 180nm. We need to adjust the width to get the desired Q point  we have already calculated the parameters.We got W=0.249u.Now select DC op pnt in edit simulation and check if ID1=Id2 , and Vout as expected. </p><br>
 
 # Transient Analysis
 
