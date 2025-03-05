@@ -105,6 +105,8 @@
 
 # Transient analysis
 
+![Image](https://github.com/user-attachments/assets/556b17e9-2a21-4072-addb-0d4ce1b65a9e)
+
 
 
 # AC analysis
