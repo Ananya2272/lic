@@ -32,6 +32,7 @@
 # DC Analysis 
 ![Image](https://github.com/user-attachments/assets/e9bb2d34-cbd8-4dbe-9b62-9143b0bf01e5)
 
+![Image](https://github.com/user-attachments/assets/31e6b951-59d0-45fd-8de9-0f5b96ee49e4)
 
 
 <p>The length of the MOSFET is 180nm. We need to adjust the width to get the desired Q point  we have already calculated the parameters.We got W=0.249u.Now select DC op pnt in edit simulation and check if ID1=Id2 , and Vout as expected. </p><br>
@@ -43,14 +44,20 @@
 ![Image](https://github.com/user-attachments/assets/376c4983-486d-4cb5-bcdf-e59c2dd3d7ee)
 
 <p> To perform transient analysiswe need to find the swing .Find Vincm maximum and minimum and take its average .</p><br>
-<p> Vincm (max)= Vt+Vp = 0.36+0.7 = 1.06v</p><br>
-<p> Vincm (min) = Vdd-RD*Iss/2+Vt = 2.169v</p><br>
-<p> swing = 1.06+2.169/2 = 1.64 .</p><br>
+**Input swing**
+<p> Vincm (min)= Vt+Vp = 0.36+0.7 = 1.06v</p><br>
+<p> Vincm (max) = Vdd-RD*Iss/2+Vt = 2.169v</p><br>
+<p> swing = 1.06+2.169/2 = 1.614v .</p><br>
+
+**Output swing**
+<p> Voutcm(max) =Vdd-IDRd= 1.81v</p><br>
+<p>Voutcm(min) = Vgs-Vt+Vp= 1.36v</p><br>
+<p>swing = 1.81+1.36/2=1.585v</p><br>
 <p> Now in edit simulation select transient analysis and select sine wave and give DC offset value as 1.614 on both side and observe the Waveform. </p><br>
 
 ![Image](https://github.com/user-attachments/assets/25327a71-ab3a-46cb-8369-b280a5c5ea69)
 
-<p> here the wave is clamped. </p><br>
+
 
 # AC analysis 
 
