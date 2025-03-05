@@ -1,4 +1,4 @@
-# Expriment-1 <br>
+# Expriment-3<br>
 **Differential Amplifier**
 
 **Introduction**
@@ -98,9 +98,11 @@
 <p>Replace the current source with a NMOS at the source terminal .</p><br>
 
 # DC analysis
+![Image](https://github.com/user-attachments/assets/3aec564f-d3db-4f1d-a146-6b4545750849)
 
 
 # Transient analysis
+
 
 
 # AC analysis
