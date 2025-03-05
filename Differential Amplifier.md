@@ -99,7 +99,9 @@
 
 # DC analysis
 ![Image](https://github.com/user-attachments/assets/3aec564f-d3db-4f1d-a146-6b4545750849)
+# DC sweep
 
+![Image](https://github.com/user-attachments/assets/eb822faa-4efa-47ac-a4fb-55b383fef7a6)
 
 # Transient analysis
 
