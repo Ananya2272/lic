@@ -124,7 +124,7 @@
 <p> 3. The current source enhances common-mode rejection, making the amplifier more effective at rejecting noise and interference.</p><br>
 <p> 4. The DC operating point remains almost same in all the circuits </p><br>
 <p> 5. Resistor limits the gain and current source stabilizes gain.</p><br>
-<p> 6. Replacing gain affects the gain ,biasing and input impedence.</p><br>
+<p> 6. Replacing current source with NMOS affects the gain ,biasing and input impedence.</p><br>
 
 
 
