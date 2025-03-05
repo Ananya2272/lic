@@ -15,7 +15,7 @@
 
 **Circuit diagram**
 
-
+![Image](https://github.com/user-attachments/assets/e82f931d-6a29-4944-b969-c493c1310631)
 
 
 **Procedure**<br>
@@ -31,7 +31,6 @@
 
 # DC Analysis 
 
-![Image](https://github.com/user-attachments/assets/e92e56c2-a737-4d3d-a48c-a9fb6b0bcbf4)
 
 <p>The length of the MOSFET is 180nm. We need to adjust the width to get the desired Q point  we have already calculated the parameters.We got W=0.279u.Now select DC op pnt in edit simulation and check if ID1=Id2 , and Vout as expected. </p><br>
 
