@@ -41,7 +41,7 @@
 
 <p> Now in edit simulation select transient analysis and select sine wave and give DC offset value as 1.72v on both side and observe the Waveform.</p>
 
-![Image](https://github.com/user-attachments/assets/376c4983-486d-4cb5-bcdf-e59c2dd3d7ee)
+
 
 <p> To perform transient analysiswe need to find the swing .Find Vincm maximum and minimum and take its average .</p><br>
 **Input swing**
