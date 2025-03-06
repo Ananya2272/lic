@@ -71,7 +71,6 @@
 
 # AC analysis 
 
-![Image](https://github.com/user-attachments/assets/30fb14dd-be5d-4684-9240-20f9ff9829df)
 
 <p> To perform AC analysis we need to select ac analysis in the edit simulator . and select the decade.Find the gain and observe the waveform obtained.</p><br>
 
