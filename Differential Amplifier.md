@@ -37,6 +37,16 @@
 
 <p>The length of the MOSFET is 180nm. We need to adjust the width to get the desired Q point  we have already calculated the parameters.We got W=0.249u.Now select DC op pnt in edit simulation and check if ID1=Id2 , and Vout as expected. </p><br>
 
+**Increase Vicm from 1.72v to 1.73v and 1.74v and observe Vocm and Vp** <br>
+| **Common-Mode Input Voltage (V_ICM)** | **Output Voltage (V_out)** | **Voltage at Point P (V_P)** |
+|--------------------------------------|--------------------------|--------------------------|
+| **1.72V**                            | **1.8101v**             | **0.699524	V**                |
+| **1.73V**                            | **1.7977v**                 | **0.705348V**               |
+| **1.8v**                              | **1.71138	v**              | **1.71138v**                |
+
+<p> As we increase Vincm Vout decreases and Vp increases.This causes increase in Id and shift in operating point. </p>
+
+
 # Transient Analysis
 
 <p> Now in edit simulation select transient analysis and select sine wave and give DC offset value as 1.72v on both side and observe the Waveform.</p>
@@ -122,13 +132,7 @@
 
 
 # Result 
-<p> 1. Iss=0.909mA</p><br>
-<p> 2.ID=ID1=ID2= 0.454mA</p><br>
-<p> 3.RD=3.3kohm</p><br>
-<p> 4.Rss= 770ohm</p><br>
-<p> 5.Av = 4.412</p><br>
-<p> 6.dB= 13.08</p><br>
-<p> 7.BW = 10.5-0.34=10.16</p><br>
+
 
 # Inference
 
