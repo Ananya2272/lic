@@ -99,7 +99,9 @@
 
 
 <p>  Now in edit simulation select transient analysis and select sine wave and give DC offset value as 1.72v on both side and observe the Waveform.Give 180degree to one MOSFET and 0 degree to another MOSFET.ac AMPLITUDE AS 1V.</p><br>
+<p> Now calulate the swing and observe the waveform.</p><br>
 
+![Image](https://github.com/user-attachments/assets/ce247221-e01b-435a-bc0e-bc6f08e0748f)
 
 # AC analysis
 
