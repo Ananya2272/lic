@@ -105,7 +105,7 @@
 
 # AC analysis
 
-![Image](https://github.com/user-attachments/assets/d5aeb0fe-a602-4fd3-b925-19eb10c63584)
+![Image](https://github.com/user-attachments/assets/a465bc1e-e0f6-419e-b00f-41f8cc326f75)
 
 <p>  To perform AC analysis we need to select ac analysis in the edit simulator . and select the decade.Find the gain and observe the waveform obtained.
 <p> the gain is increased because it raises the output resistance.</p><br>
@@ -136,6 +136,89 @@
 
 
 # Result 
+**Comparision based on the obtained Values**
+  
+  <table>
+    <tr>
+      <td>Parameters</td>
+      <td> Calculated</td>
+      <td>Circuit 1 (with R<sub>ss</sub>)</td>
+      <td>Circuit 2 (with constant current source)</td>
+      <td>Circuit 3 (with NMOS)</td>
+     
+  </tr>
+    <tr>
+      <td>Vincm</sub></td>
+      <td>1.72V</td>
+      <td> 1.72V</td>
+      <td>1.72v</td>
+      <td>1.72V</td>
+     
+   </tr>
+    <tr>
+      <td>Vocm</sub></td>
+      <td> 1.81V</td>
+      <td>1.81V</td>
+       <td>1.81V</td>
+        <td>V</td>
+       
+  </tr>
+    <tr>
+      <td>Vp</sub></td>
+      <td>0.7V</td>
+      <td>0.7V</td>
+      <td>0.7V</td>
+      <td>0.7V</td>
+     
+   </tr>
+    <tr>
+      <td>ID</sub></td>
+      <td>0.454mA</td>
+      <td>0.454mA</td>
+      <td>0.454mA</td>
+      <td>mA</td>
+      
+   
+   </tr>
+    <tr>
+      <td>Iss</sub></td>
+      <td>0.909mA</td>
+      <td>0.909mA</td>
+      <td>0.090mA</td>
+      <td>mA</td>
+      </tr>
+    <tr>
+      <td>RD</sub>
+      <td>3.3KΩ</td>
+      <td>3.28kΩ</td>
+      <td>3.33KΩ</td>
+      <td>kΩ</td>
+      </tr>
+    
+   <tr>
+      <td>A<sub>vdm</td>
+        <td>V/V</td>
+        <td> V/V</td>
+        <td>  V/V</td>
+        <td>  V/V</td>
+       </tr>
+        <tr>
+          <td>Gain in dB scale(20log(A<sub>vdm</sub>) </td>
+          <td></td>
+          <td>13.08dB</td>
+          <td></td>
+          <td></td>
+         
+   </tr>
+        <tr>
+          <td>Bandwidth</td>
+          <td>-</td>
+          <td></td>
+          <td></td>
+          <td></td>
+         
+   </tr>
+         </table>
 
 
 # Inference
