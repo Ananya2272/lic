@@ -89,13 +89,14 @@
 <P> Replece the resistor with a Current source and apply the value we obtained earlier (0.909mA) . It is also called as tail current. Current flowing from ID1 & ID2 must be equal to Iss. </P><br>
 
 # DC analysis
-
+![Image](https://github.com/user-attachments/assets/41364184-17aa-4aa6-8ef0-2edb81707694)
 
 <p>The length of the MOSFET is 180nm. We need to adjust the width to get the desired Q point  we have already calculated the parameters.We got W=0.279u.Now select DC op pnt in edit simulation and check if ID1=Id2 , and Vout as expected.  </p><br>
 
 # Transient analysis
 
 ![Image](https://github.com/user-attachments/assets/d525ebba-f689-4445-8575-d8c03e0dcccb)
+
 
 <p>  Now in edit simulation select transient analysis and select sine wave and give DC offset value as 1.72v on both side and observe the Waveform.Give 180degree to one MOSFET and 0 degree to another MOSFET.ac AMPLITUDE AS 1V.</p><br>
 
