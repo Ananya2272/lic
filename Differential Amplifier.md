@@ -100,6 +100,7 @@
 
 <p>  Now in edit simulation select transient analysis and select sine wave and give DC offset value as 1.72v on both side and observe the Waveform.Give 180degree to one MOSFET and 0 degree to another MOSFET.ac AMPLITUDE AS 1V.</p><br>
 
+
 # AC analysis
 
 ![Image](https://github.com/user-attachments/assets/d5aeb0fe-a602-4fd3-b925-19eb10c63584)
