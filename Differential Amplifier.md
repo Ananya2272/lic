@@ -37,14 +37,14 @@
 
 <p>The length of the MOSFET is 180nm. We need to adjust the width to get the desired Q point  we have already calculated the parameters.We got W=0.249u.Now select DC op pnt in edit simulation and check if ID1=Id2 , and Vout as expected. </p><br>
 
-**Increase Vicm from 1.72v to 1.73v and 1.74v and observe Vocm and Vp** <br>
+**Increase Vicm from 1.72v to +or- 5mv and observe Vocm and Vp** <br>
 | **Common-Mode Input Voltage (V_ICM)** | **Output Voltage (V_out)** | **Voltage at Point P (V_P)** |
 |--------------------------------------|--------------------------|--------------------------|
 | **1.72V**                            | **1.8101v**             | **0.699524	V**                |
-| **1.73V**                            | **1.7977v**                 | **0.705348V**               |
-| **1.8v**                              | **1.71138	v**              | **1.71138v**                |
+| **2.25vV**                            | **1.27156v**                 | **0.952378v**               |
+| **1.25v**                              | ** 2.40145v**              | **0.42188v**                |
 
-<p> As we increase Vincm Vout decreases and Vp increases.This causes increase in Id and shift in operating point. </p>
+<p> As we increase Vincm Vout decreases and Vp increasesand Vp increases if we increase Vincm and decreases if we decrease .This causes increase in Id and shift in operating point. </p>
 
 
 # Transient Analysis
@@ -76,9 +76,9 @@
 <p> To perform AC analysis we need to select ac analysis in the edit simulator . and select the decade.Find the gain and observe the waveform obtained.</p><br>
 
 ![Image](https://github.com/user-attachments/assets/3c18195b-45b7-4535-93e0-93ec934f1a6f)
-![Image](https://github.com/user-attachments/assets/36d17936-9595-46af-8097-68ce7cc9283f)
 
 <p> Here we got BW= 10.5-0.34= 10.16.</p><br>
+<p> 3db = 20log(4.512)</p><br>
 <p> 3dB=13.08</p><br>
 
 # Circuit-2 using current source
@@ -90,7 +90,7 @@
 
 # DC analysis
 
-![Image](https://github.com/user-attachments/assets/43161068-a219-42e9-a61d-5ad250f62af2)
+
 <p>The length of the MOSFET is 180nm. We need to adjust the width to get the desired Q point  we have already calculated the parameters.We got W=0.279u.Now select DC op pnt in edit simulation and check if ID1=Id2 , and Vout as expected.  </p><br>
 
 # Transient analysis
