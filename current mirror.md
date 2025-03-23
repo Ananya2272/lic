@@ -81,10 +81,70 @@ For I<sub>ref</sub> = 100u <br>
 
 **Part - A**
 
-**Case-1**
+## Case-1
 **180nm**<br>
 *1:1 aspect ratio**<br>
+## DC analysis
+
+<p> Vdd=1.8v</p><br>
+<p> P <= 1mw</p><br>
+<p> I = P/V = 1/1.8 = 0.55mA</p><br>
+<p>ID1=ID2= 0.277mA</p><br>
+
 
 ![Image](https://github.com/user-attachments/assets/ab20f49b-39cb-4204-8bd2-152356b42753)
+
+![Image](https://github.com/user-attachments/assets/e8508c33-aa2b-4eed-a81f-95e4393dcfb5)
+
+
+
+ <table> 
+<tr>
+ <th><b>Parameters</b></th>
+ <th><b>MOSFET1</b></th>
+ <th><b>MOSFET2</b></th>
+ <th><b>MOSFET3</b></th>
+</tr>
+<tr>
+    <td>Model</td>
+    <td>CMOSP</td>
+    <td>CMOSP</td>
+    <td>CMOSN</td>
+</tr>
+<tr>
+    <td>Mosfet Length</td>
+    <td>180nm</td>
+    <td>180nm</td>
+    <td>180nm</td>
+</tr>
+<tr>
+    <td>Mosfet Width</td>
+    <td>10µm</td>
+    <td>10µm</td>
+    <td>114.025µm</td>
+</tr>
+
+   <tr>
+      <td>Current(I)</td>
+      <td> I<sub>ref</sub> = 0.227mA </td>
+      <td> I<sub>d</sub> = 0.227mA </td>
+      <td> I<sub>d</sub> = 0.227mA </td>
+    </tr>
+    <tr>
+      <td>Supply Voltage</td>
+      <td> 1.8V</td>
+      <td> 1.8V</td>
+      <td> --- </td>
+    </tr>
+     <tr>
+      <td>Biased Voltage</td>
+      <td> --- </td>
+      <td> --- </td>
+      <td> 0.500V</td>
+    </tr>
+</table>
+<br>
+
+## Transient Analysis 
 
 
