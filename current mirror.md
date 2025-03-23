@@ -90,6 +90,7 @@ For I<sub>ref</sub> = 100u <br>
 <p> P <= 1mw</p><br>
 <p> I = P/V = 1/1.8 = 0.55mA</p><br>
 <p>ID1=ID2= 0.277mA</p><br>
+<p> For MOSFET 1 the circuit is diode connected hence, it is working in saturation region. MOSFET 2 has Vsd = 0.8327V, Vsg = 0.8327V, and Vth = 0.496V. It satisfies the P-MOS saturation condition Vds > Vgs - Vth. For MOSFET 3 it has Vds = 0.8327V, Vgs = 0.5697V, hence satisfies the N-MOS saturation condition.</p><br>
 
 
 ![Image](https://github.com/user-attachments/assets/ab20f49b-39cb-4204-8bd2-152356b42753)
@@ -253,10 +254,59 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
   </tr>
 </table>
 
-## Case-2 
-## 500nm Length
+## Case-2 - 500nm Length
 **1:1 aspect ratio**
 
+## DC Ananlysis
+
+
+
+ <table> 
+<tr>
+ <th><b>Parameters</b></th>
+ <th><b>MOSFET1</b></th>
+ <th><b>MOSFET2</b></th>
+ <th><b>MOSFET3</b></th>
+</tr>
+<tr>
+    <td>Model</td>
+    <td>CMOSP</td>
+    <td>CMOSP</td>
+    <td>CMOSN</td>
+</tr>
+<tr>
+    <td>Mosfet Length</td>
+    <td>500nm</td>
+    <td>500nm</td>
+    <td>500nm</td>
+</tr>
+<tr>
+    <td>Mosfet Width</td>
+    <td>10µm</td>
+    <td>10µm</td>
+    <td>207.179µm</td>
+</tr>
+
+   <tr>
+      <td>Current(I)</td>
+      <td> I<sub>ref</sub> = 0.227mA </td>
+      <td> I<sub>d</sub> = 0.227mA </td>
+      <td> I<sub>d</sub> = 0.227mA </td>
+    </tr>
+    <tr>
+      <td>Supply Voltage</td>
+      <td> 1.8V</td>
+      <td> 1.8V</td>
+      <td> --- </td>
+    </tr>
+     <tr>
+      <td>Biased Voltage</td>
+      <td> --- </td>
+      <td> --- </td>
+      <td> 0.500V</td>
+    </tr>
+</table>
+<br>
 
 
 
