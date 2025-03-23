@@ -163,5 +163,55 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
 **for 1:2 aspect ratio**<br>
 **180nm**<br>
 
+![Image](https://github.com/user-attachments/assets/b4eb2241-ea1c-4724-91da-f5ac913f3a37)
+
+ <table> 
+<tr>
+ <th><b>Parameters</b></th>
+ <th><b>MOSFET1</b></th>
+ <th><b>MOSFET2</b></th>
+ <th><b>MOSFET3</b></th>
+</tr>
+<tr>
+    <td>Model</td>
+    <td>CMOSP</td>
+    <td>CMOSP</td>
+    <td>CMOSN</td>
+</tr>
+<tr>
+    <td>Mosfet Length</td>
+    <td>180nm</td>
+    <td>180nm</td>
+    <td>180nm</td>
+</tr>
+<tr>
+    <td>Mosfet Width</td>
+    <td>10µm</td>
+    <td>20µm</td>
+    <td>200.170µm</td>
+</tr>
+
+   
+   <tr>
+      <td>Current(I)</td>
+      <td> I<sub>ref</sub> = 0.1833mA </td>
+      <td> I<sub>d</sub> = 0.3666mA </td>
+      <td> I<sub>d</sub> = 0.3666mA </td>
+    </tr>
+    <tr>
+      <td>Supply Voltage</td>
+      <td> 1.8V</td>
+      <td> 1.8V</td>
+      <td> --- </td>
+    </tr>
+     <tr>
+      <td>Biased Voltage</td>
+      <td> --- </td>
+      <td> --- </td>
+      <td> 0.500V</td>
+    </tr>
+</table>
+
+## Transient Analysis
 
 
