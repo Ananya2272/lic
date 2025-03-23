@@ -334,4 +334,31 @@ The frequency for this particular dB is 140.45MHz, the bandwidth can be calculat
 
 ## AC Analysis
 
+![Image](https://github.com/user-attachments/assets/ac1b6071-004c-4d91-a5e4-3f060feaade7)
 
+<p>The obtained gain from the simulation is 41.952Db.
+41.952 - 3 = 38.952dB
+The frequency for this particular dB is 547.86MHz, the bandwidth can be calculated as fH - fL.
+= 159.896kHz - 0
+= 159.896kHz</p><br>
+<p> There is no increase or decrease in gain in both 1:1 and 1:2 aspect ratio.</p><br>
+
+**comparision table**
+
+<table>
+  <tr>
+    <th> Parameters</th>
+    <th> 1:1 </th>
+    <th> 1:2 </th>
+  </tr>
+  <tr>
+    <td> V<sub>out</sub></td>
+    <td>0.644704V</td>
+    <td>0.79317V</td>
+  </tr>
+  <tr> 
+    <td> V<sub>x</sub></td>
+    <td>0.644704V</td>
+    <td>0.778596V</td>
+  </tr>
+</table>
