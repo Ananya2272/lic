@@ -314,6 +314,17 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
 
 ## AC Analysis
 
+![Image](https://github.com/user-attachments/assets/76382502-a1fe-4a94-a814-b4914aa96c4b)
+
+The obtained gain from the simulation is 39.85dB.
+39.85 - 3 = 36.85B
+The frequency for this particular dB is 140.45MHz, the bandwidth can be calculated as fH - fL.
+= 140.45M - 0
+= 140.45MHz
+
+**1:2 aspect ratio**
+
+## DC Analysis
 
 
 
