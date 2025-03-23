@@ -328,6 +328,10 @@ The frequency for this particular dB is 140.45MHz, the bandwidth can be calculat
 
 ![Image](https://github.com/user-attachments/assets/6d188afb-42f3-4ce0-a91d-bb35a43d7b92)
 
+## Transient Analysis
 
+![Image](https://github.com/user-attachments/assets/0c21dfcf-06e8-4afb-823e-bf5fd1f33f3d)
+
+## AC Analysis
 
 
