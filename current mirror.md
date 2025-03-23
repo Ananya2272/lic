@@ -82,7 +82,9 @@ For I<sub>ref</sub> = 100u <br>
 **Part - A**
 
 **Case-1**
-**180nm**
-*1:1 aspect ratio**
+**180nm**<br>
+*1:1 aspect ratio**<br>
+
+![Image](https://github.com/user-attachments/assets/ab20f49b-39cb-4204-8bd2-152356b42753)
 
 
