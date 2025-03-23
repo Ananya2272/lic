@@ -149,6 +149,9 @@ For I<sub>ref</sub> = 100u <br>
 
 ![Image](https://github.com/user-attachments/assets/3d51d0c6-b73c-4457-9e66-f7380227e339)
 
-## Ac Analysis 
+## AC Analysis 
 
+![Image](https://github.com/user-attachments/assets/46f5edb0-195b-464b-9643-add5942b5480)
+
+<p> gain we obtained is = 29 </p>
 
