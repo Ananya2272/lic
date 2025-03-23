@@ -188,7 +188,7 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
     <td>Mosfet Width</td>
     <td>10µm</td>
     <td>20µm</td>
-    <td>200.170µm</td>
+    <td>148.69µm</td>
 </tr>
 
    
@@ -213,5 +213,9 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
 </table>
 
 ## Transient Analysis
+
+![Image](https://github.com/user-attachments/assets/4363f5ad-b178-408a-a1a8-a1c9ba38e478)
+
+## AC Analysis
 
 
