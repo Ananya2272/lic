@@ -6,6 +6,8 @@
 
  <p> The current mirror circuits are simple current sources which gives constant current. The current mirror circuits are based on the principle that, if the gate to source voltage of two identical MOSFETs are equal then the drain current flowing through them is equal. The basic current mirror circuit is shown in Figure below.</p>
 
+ ![Image](https://github.com/user-attachments/assets/a7293d41-62b4-46a2-8ce7-5bcd00543125)
+
  <ins>Observed Table</ins> <br>
 For I<sub>ref</sub> = 100u <br>
 
@@ -76,3 +78,11 @@ For I<sub>ref</sub> = 100u <br>
     </tr>
 </table> 
 <br>
+
+**Part - A**
+
+**Case-1**
+**180nm**
+*1:1 aspect ratio**
+
+
