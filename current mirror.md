@@ -310,6 +310,10 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
 
 ## Transient Analysis
 
+![Image](https://github.com/user-attachments/assets/f8e06c9e-f9dc-4c85-bfe5-07c0e13b16ae)
+
+## AC Analysis
+
 
 
 
