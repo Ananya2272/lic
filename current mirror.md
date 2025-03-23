@@ -326,7 +326,7 @@ The frequency for this particular dB is 140.45MHz, the bandwidth can be calculat
 
 ## DC Analysis
 
-
+![Image](https://github.com/user-attachments/assets/6d188afb-42f3-4ce0-a91d-bb35a43d7b92)
 
 
 
