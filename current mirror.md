@@ -147,11 +147,14 @@ For I<sub>ref</sub> = 100u <br>
 
 ## Transient Analysis 
 
-![Image](https://github.com/user-attachments/assets/50211f45-5747-4146-aa33-0e229c8c92a9)
+![Image](https://github.com/user-attachments/assets/46f5edb0-195b-464b-9643-add5942b5480)
+
 
 ## AC Analysis 
 
-![Image](https://github.com/user-attachments/assets/46f5edb0-195b-464b-9643-add5942b5480)
+
+![Image](https://github.com/user-attachments/assets/50211f45-5747-4146-aa33-0e229c8c92a9)
+
 
 <p>The obtained gain from the simulation is 29.88dB.
 29.88 - 3 = 26.88dB
@@ -162,6 +165,9 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
 ---
 **for 1:2 aspect ratio**<br>
 **180nm**<br>
+<p>As total current is 0.55mA, it is divided into 3 parts, where 1/3 of current is its reference current I<sub>ref</sub> and remaining is the output current I<sub>d</sub>. <br>
+i.e 0.55m / 3 = 0.183mA. <br>
+Hence, I<sub>ref</sub> = 0.183mA and I<sub>d</sub> = 0.3667mA </p><br>
 
 ![Image](https://github.com/user-attachments/assets/b4eb2241-ea1c-4724-91da-f5ac913f3a37)
 
@@ -217,5 +223,40 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
 ![Image](https://github.com/user-attachments/assets/4363f5ad-b178-408a-a1a8-a1c9ba38e478)
 
 ## AC Analysis
+
+![Image](https://github.com/user-attachments/assets/c20df57d-482b-4d57-adc3-4ac812ccfe95)
+
+<p>The obtained gain from the simulation is 29.88dB.
+29.88 - 3 = 26.88dB
+The frequency for this particular dB is 547.86MHz, the bandwidth can be calculated as fH - fL.
+= 564.84M - 0
+= 564.84MHz</p><br>
+<p> There is no increase or decrease in gain in both 1:1 and 1:2 aspect ratio.</p><br>
+
+**Comparision table for 180nm**
+
+<table>
+  <tr>
+    <th> Parameters</th>
+    <th> 1:1 </th>
+    <th> 1:2 </th>
+  </tr>
+  <tr>
+    <td> V<sub>out</sub></td>
+    <td> 0.967276V</td>
+    <td> 1.03471V</td>
+  </tr>
+  <tr> 
+    <td> V<sub>x</sub></td>
+    <td>0.967276v</td>
+    <td> 0.998633V</td>
+  </tr>
+</table>
+
+## Case-2 
+## 500nm Length
+**1:1 aspect ratio**
+
+
 
 
