@@ -147,11 +147,21 @@ For I<sub>ref</sub> = 100u <br>
 
 ## Transient Analysis 
 
-![Image](https://github.com/user-attachments/assets/3d51d0c6-b73c-4457-9e66-f7380227e339)
+![Image](https://github.com/user-attachments/assets/50211f45-5747-4146-aa33-0e229c8c92a9)
 
 ## AC Analysis 
 
 ![Image](https://github.com/user-attachments/assets/46f5edb0-195b-464b-9643-add5942b5480)
 
-<p> gain we obtained is = 29 </p>
+<p>The obtained gain from the simulation is 29.88dB.
+29.88 - 3 = 26.88dB
+The frequency for this particular dB is 547.86MHz, the bandwidth can be calculated as fH - fL.
+= 564.84M - 0
+= 564.84MHz</p><br>
+
+---
+**for 1:2 aspect ratio**<br>
+**180nm**<br>
+
+
 
