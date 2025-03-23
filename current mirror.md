@@ -147,4 +147,8 @@ For I<sub>ref</sub> = 100u <br>
 
 ## Transient Analysis 
 
+![Image](https://github.com/user-attachments/assets/3d51d0c6-b73c-4457-9e66-f7380227e339)
+
+## Ac Analysis 
+
 
