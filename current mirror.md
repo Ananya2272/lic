@@ -259,7 +259,7 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
 
 ## DC Ananlysis
 
-
+![Image](https://github.com/user-attachments/assets/43ef5739-1fd6-46fa-81a0-a1d131d98df9)
 
  <table> 
 <tr>
@@ -307,6 +307,12 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
     </tr>
 </table>
 <br>
+
+## Transient Analysis
+
+
+
+
 
 
 
