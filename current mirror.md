@@ -524,15 +524,18 @@ The frequency for this particular dB is 10.656MHz, the bandwidth can be calculat
 <p> Here M1 and M2 are in 1:1 ratio and M5 and M6 are in 1:2 ratio .</p><br>
 <p> For this circuit biased voltage is replaced by current mirror circuit, with Vdd = 3.3vV</p><br>
 
+![Image](https://github.com/user-attachments/assets/29e5b266-47d9-4eeb-96cd-35964d9fb533)
+
 
 ## DC Analysis
 
-![Image](https://github.com/user-attachments/assets/29e5b266-47d9-4eeb-96cd-35964d9fb533)
+
 
 ## Transient Analysis
 
 ![Image](https://github.com/user-attachments/assets/3765d6f4-b1a1-40c4-8f40-7b399a65508d)
 <p> Output voltage is 2.70v</p><br>
+
 ## AC Analysis
 
 ![Image](https://github.com/user-attachments/assets/ba221a2d-1d48-407a-bee6-5328fd916c62)
