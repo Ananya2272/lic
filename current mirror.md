@@ -435,4 +435,5 @@ The frequency for this particular dB is 31.798kHz, the bandwidth can be calculat
 =31.798kHz - 0
 = 31.798kHz</p><br>
 
+**1:2 aspect ratio**
 
