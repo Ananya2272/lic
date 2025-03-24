@@ -487,3 +487,4 @@ The frequency for this particular dB is 31.798kHz, the bandwidth can be calculat
     </tr>
 </table>
 
+![Image](https://github.com/user-attachments/assets/95ab63dc-4133-4e48-b6c5-9b89a691b2ca)
