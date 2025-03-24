@@ -434,3 +434,5 @@ Iref = Id = 277µA</p><br>
 The frequency for this particular dB is 31.798kHz, the bandwidth can be calculated as fH - fL.
 =31.798kHz - 0
 = 31.798kHz</p><br>
+
+
