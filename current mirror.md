@@ -437,3 +437,53 @@ The frequency for this particular dB is 31.798kHz, the bandwidth can be calculat
 
 **1:2 aspect ratio**
 
+## DC Analysis 
+
+![Image](https://github.com/user-attachments/assets/8f116501-d8e9-4b6c-a239-879b42858317)
+ <table> 
+<tr>
+ <th><b>Parameters</b></th>
+ <th><b>MOSFET1</b></th>
+ <th><b>MOSFET2</b></th>
+ <th><b>MOSFET3</b></th>
+</tr>
+<tr>
+    <td>Model</td>
+    <td>CMOSP</td>
+    <td>CMOSP</td>
+    <td>CMOSN</td>
+</tr>
+<tr>
+    <td>Mosfet Length</td>
+    <td>1um</td>
+    <td>1um</td>
+    <td>1um</td>
+</tr>
+<tr>
+    <td>Mosfet Width</td>
+    <td>10µm</td>
+    <td>20µm</td>
+    <td>324.88µm</td>
+</tr>
+
+   
+   <tr>
+      <td>Current(I)</td>
+      <td> I<sub>ref</sub> = 0.183mA </td>
+      <td> I<sub>d</sub> = 0.3667mA </td>
+      <td> I<sub>d</sub> = 0.3667mA </td>
+    </tr>
+    <tr>
+      <td>Supply Voltage</td>
+      <td> 1.8V</td>
+      <td> 1.8V</td>
+      <td> --- </td>
+    </tr>
+     <tr>
+      <td>Biased Voltage</td>
+      <td> --- </td>
+      <td> --- </td>
+      <td> 0.500V</td>
+    </tr>
+</table>
+
