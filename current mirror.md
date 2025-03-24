@@ -499,6 +499,23 @@ The frequency for this particular dB is 31.798kHz, the bandwidth can be calculat
 The frequency for this particular dB is 10.656MHz, the bandwidth can be calculated as fH - fL.
 =10.656MHz - 0
 = 10.656MHz</p><br>
+<table>
+  <tr>
+    <th> Parameters</th>
+    <th> 1:1 </th>
+    <th> 1:2 </th>
+  </tr>
+  <tr>
+    <td> V<sub>out</sub></td>
+    <td> 0.29317V</td>
+    <td> 0.472227V</td>
+  </tr>
+  <tr> 
+    <td> V<sub>x</sub></td>
+    <td>0.0.293177</td>
+    <td> 0.51519V</td>
+  </tr>
+</table>
 
 ## PART - B 
 
