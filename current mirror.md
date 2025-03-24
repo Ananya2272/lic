@@ -123,7 +123,7 @@ For I<sub>ref</sub> = 100u <br>
     <td>Mosfet Width</td>
     <td>10µm</td>
     <td>10µm</td>
-    <td>114.025µm</td>
+    <td>32.025µm</td>
 </tr>
 
    <tr>
@@ -196,7 +196,7 @@ Hence, I<sub>ref</sub> = 0.183mA and I<sub>d</sub> = 0.3667mA </p><br>
     <td>Mosfet Width</td>
     <td>10µm</td>
     <td>20µm</td>
-    <td>148.69µm</td>
+    <td>48.69µm</td>
 </tr>
 
    
@@ -285,7 +285,7 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
     <td>Mosfet Width</td>
     <td>10µm</td>
     <td>10µm</td>
-    <td>207.179µm</td>
+    <td>33.179µm</td>
 </tr>
 
    <tr>
@@ -328,7 +328,7 @@ The frequency for this particular dB is 140.45MHz, the bandwidth can be calculat
 ## DC Analysis
 
 ![Image](https://github.com/user-attachments/assets/6d188afb-42f3-4ce0-a91d-bb35a43d7b92)
-
+<p> here the width is 60.456um.</p>
 ## Transient Analysis
 
 ![Image](https://github.com/user-attachments/assets/0c21dfcf-06e8-4afb-823e-bf5fd1f33f3d)
@@ -390,7 +390,7 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
     <td>Mosfet Width</td>
     <td>10µm</td>
     <td>10µm</td>
-    <td>251.541125µm</td>
+    <td>91.541125µm</td>
 </tr>
 
    <tr>
@@ -463,7 +463,7 @@ The frequency for this particular dB is 31.798kHz, the bandwidth can be calculat
     <td>Mosfet Width</td>
     <td>10µm</td>
     <td>20µm</td>
-    <td>324.88µm</td>
+    <td>100.88µm</td>
 </tr>
 
    
@@ -498,4 +498,13 @@ The frequency for this particular dB is 31.798kHz, the bandwidth can be calculat
 The frequency for this particular dB is 10.656MHz, the bandwidth can be calculated as fH - fL.
 =10.656MHz - 0
 = 10.656MHz</p><br>
+
+## PART - B 
+
+## DC Analysis
+<p> Design the differential amplifier using the same design specification as experiment 3(differential amplifier). Perform DC, Transient, AC analysis for this.
+</p><br>
+
+
+
 
