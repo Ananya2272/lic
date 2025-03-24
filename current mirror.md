@@ -420,3 +420,7 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
 
 ## Taansient Analysis
 
+![Image](https://github.com/user-attachments/assets/9781a5e0-848e-4b71-acc7-7d73aac8b5fb)
+
+## AC Analysis
+
