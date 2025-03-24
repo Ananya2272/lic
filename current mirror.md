@@ -390,7 +390,7 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
     <td>Mosfet Width</td>
     <td>10µm</td>
     <td>10µm</td>
-    <td>µm</td>
+    <td>251.541125µm</td>
 </tr>
 
    <tr>
@@ -413,3 +413,10 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
     </tr>
 </table>
 <br>
+
+## DC Analysis
+
+![Image](https://github.com/user-attachments/assets/150a4a62-1f91-455b-b0a5-edf756c54b39)
+
+## Taansient Analysis
+
