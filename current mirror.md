@@ -1,4 +1,5 @@
 ## Experiment -6 
+## Current Mirror
 
 **Aim : Design a current mirror circuit which has a gain of AV = -10V/V, power supply of Vdd = 1.8V, and power of P <= 1mW. Find reference current (Iref), output current (Id), and total current (Itotal). Perform DC and AC analysis for mirror ratio 1:1, 1:2. Vary length from 180nm -> 500nm -> 1µm and do the analysis.** <br>
 
@@ -362,3 +363,53 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
     <td>0.778596V</td>
   </tr>
 </table>
+
+# case-3 1µm 
+**1:1 aspect ratio**
+
+ <table> 
+<tr>
+ <th><b>Parameters</b></th>
+ <th><b>MOSFET1</b></th>
+ <th><b>MOSFET2</b></th>
+ <th><b>MOSFET3</b></th>
+</tr>
+<tr>
+    <td>Model</td>
+    <td>CMOSP</td>
+    <td>CMOSP</td>
+    <td>CMOSN</td>
+</tr>
+<tr>
+    <td>Mosfet Length</td>
+    <td>1µm</td>
+    <td>1µm</td>
+    <td>1µm</td>
+</tr>
+<tr>
+    <td>Mosfet Width</td>
+    <td>10µm</td>
+    <td>10µm</td>
+    <td>µm</td>
+</tr>
+
+   <tr>
+      <td>Current(I)</td>
+      <td> I<sub>ref</sub> = 0.277mA </td>
+      <td> I<sub>d</sub> = 0.277mA </td>
+      <td> I<sub>d</sub> = 0.277mA </td>
+    </tr>
+    <tr>
+      <td>Supply Voltage</td>
+      <td> 1.8V</td>
+      <td> 1.8V</td>
+      <td> --- </td>
+    </tr>
+     <tr>
+      <td>Biased Voltage</td>
+      <td> --- </td>
+      <td> --- </td>
+      <td> 0.500V</td>
+    </tr>
+</table>
+<br>
