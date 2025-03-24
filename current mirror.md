@@ -150,7 +150,8 @@ For I<sub>ref</sub> = 100u <br>
 ## Transient Analysis 
 
 ![Image](https://github.com/user-attachments/assets/46f5edb0-195b-464b-9643-add5942b5480)
-
+<p> The input voltage given for N-MOS has DC-offset of 0.500V and amplitude of 10mV with frequency of 1kHz.
+Can observe the output voltage which is 12.43V.</p>
 
 ## AC Analysis 
 
@@ -503,6 +504,8 @@ The frequency for this particular dB is 10.656MHz, the bandwidth can be calculat
 
 <p> Design the differential amplifier using the same design specification as experiment 3(differential amplifier). Perform DC, Transient, AC analysis for this.
 </p><br>
+<p> Here M1 and M2 are in 1:1 ratio and M5 and M6 are in 1:2 ratio .</p><br>
+<p> For this circuit biased voltage is replaced by current mirror circuit, with Vdd = 3.3vV</p><br>
 
 
 ## DC Analysis
@@ -512,8 +515,10 @@ The frequency for this particular dB is 10.656MHz, the bandwidth can be calculat
 ## Transient Analysis
 
 ![Image](https://github.com/user-attachments/assets/3765d6f4-b1a1-40c4-8f40-7b399a65508d)
-
+<p> Output voltage is 2.70v</p><br>
 ## AC Analysis
 
+![Image](https://github.com/user-attachments/assets/ba221a2d-1d48-407a-bee6-5328fd916c62)
 
+<p> gain is 21.760dB.</p><br>
 
