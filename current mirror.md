@@ -504,7 +504,6 @@ The frequency for this particular dB is 10.656MHz, the bandwidth can be calculat
 <p> Design the differential amplifier using the same design specification as experiment 3(differential amplifier). Perform DC, Transient, AC analysis for this.
 </p><br>
 
-![Image](https://github.com/user-attachments/assets/c0d895c4-55d1-44ad-9a66-8e8f156d76f0)
 
 ## DC Analysis
 
