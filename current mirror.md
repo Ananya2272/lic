@@ -512,7 +512,7 @@ The frequency for this particular dB is 10.656MHz, the bandwidth can be calculat
   </tr>
   <tr> 
     <td> V<sub>x</sub></td>
-    <td>0.0.293177</td>
+    <td>0.293177v</td>
     <td> 0.51519V</td>
   </tr>
 </table>
