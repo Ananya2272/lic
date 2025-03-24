@@ -417,6 +417,9 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
 ## DC Analysis
 
 ![Image](https://github.com/user-attachments/assets/150a4a62-1f91-455b-b0a5-edf756c54b39)
+<p> From dc analysis:
+Vout = 0.293177v, which is equal to Vx
+Iref = Id = 277µA</p><br>
 
 ## Taansient Analysis
 
@@ -424,3 +427,10 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
 
 ## AC Analysis
 
+![Image](https://github.com/user-attachments/assets/210cdbeb-abbc-4198-ab3a-9a804e1284b9)
+
+<p>The obtained gain from the simulation is 39.946Db.
+39.964- 3 = 36.964dB
+The frequency for this particular dB is 31.798kHz, the bandwidth can be calculated as fH - fL.
+=31.798kHz - 0
+= 31.798kHz</p><br>
